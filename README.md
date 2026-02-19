@@ -1,5 +1,7 @@
 ## Student Attendance Risk Predictor
 
+Status: Completed | Academic Machine Learning Project
+
 A Machine Learning project that predicts whether a student is at risk of detention based on attendance data.  
 The model is trained using synthetic academic records and deployed through an interactive Streamlit web application.
 
