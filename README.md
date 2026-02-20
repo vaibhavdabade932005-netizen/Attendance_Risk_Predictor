@@ -1,6 +1,7 @@
 ## Student Attendance Risk Predictor
 
 Status: Completed | Academic Machine Learning Project
+Author: Vaibhav Dabade  
 
 A Machine Learning project that predicts whether a student is at risk of detention based on attendance data.  
 The model is trained using synthetic academic records and deployed through an interactive Streamlit web application.
@@ -79,3 +80,24 @@ Attendance_Risk_Predictor/
   ``` 
    streamlit run app/app.py
    ```
+
+## Application Preview
+
+### Web Application Interface
+
+![App Interface](assets/app_interface.png)
+
+### Model Performance
+
+![Model Accuracy](assets/model_accuracy.png)
+
+---
+
+## Future Improvements
+
+- Deploy application to Streamlit Cloud
+- Add real-world attendance dataset
+- Implement additional ML models for comparison
+- Add model evaluation visualization (confusion matrix, ROC curve)
+
+
